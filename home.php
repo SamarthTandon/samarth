@@ -15,6 +15,7 @@
 </head>
 
 <body>
+	<h1>Git-HUB</h1>
 	<div class="main-pop-up">
    			<img id="cancel-icon" src="download.jpg" onclick="hide_main_popup()">
    			<div id="left-shape">
